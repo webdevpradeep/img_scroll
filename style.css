@@ -11,10 +11,10 @@
 .img4,
 .img5,
 .img6 {
-  /* max-width: 600px; */
-  height: 100vh;
+  max-width: 600px;
+  /* height: 100vh; */
   width: 100%;
-  /* transition: all 2s; */
+  transition: all 0.2s;
 
   /* object-fit: contain; */
 }
